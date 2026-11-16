@@ -4,8 +4,8 @@
 
 | 파일 | 용도 |
 | --- | --- |
-| [분무건조기 Windows 시연 ZIP](./SpratDryer.zip?raw=true) | Isaac Sim 장면과 실행 스크립트, BaSyx·PostgreSQL·Grafana 설정, 웹 3D 화면과 설치 가이드 |
-| [실행용 AASX](./SpratDryer.aasx?raw=true) | BaSyx 또는 AASX 뷰어에서 `DRYER-SIM-01`의 서브모델과 KPI 매핑 조회 |
+| [분무건조기 Windows 시연 ZIP](./SprayDryer.zip?raw=true) | Isaac Sim 장면과 실행 스크립트, BaSyx·PostgreSQL·Grafana 설정, 웹 3D 화면과 설치 가이드 |
+| [실행용 AASX](./SprayDryer.aasx?raw=true) | BaSyx 또는 AASX 뷰어에서 `DRYER-SIM-01`의 서브모델과 KPI 매핑 조회 |
 
 Windows에 [Python 3.12 64비트](https://www.python.org/downloads/windows/), [Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/), [Isaac Sim 6.2 Workstation](https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_workstation.html)을 설치합니다. Docker Desktop을 Linux 컨테이너 모드로 실행하고, ZIP을 푼 `Mist_Dryer_Windows_Demo` 폴더에서 아래 명령을 실행합니다. `C:\isaacsim`은 `python.bat`가 있는 설치 경로로 바꿉니다.
 
