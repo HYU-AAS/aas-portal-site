@@ -69,9 +69,10 @@ def video_block(name):
     for v in table("videos.csv"):
         if v["장비"] == name:
             video = re.search(r"(?:v=|youtu\.be/|/shorts/|/embed/)([\w-]{11})", v["YouTube 주소"]).group(1)
+            kind = escape(v["유형"])
             return (
-                f'## 시뮬레이션 영상\n\n<a href="https://www.youtube.com/watch?v={video}">'
-                f'<img src="https://img.youtube.com/vi/{video}/mqdefault.jpg" width="480" alt="{escape(name)} 시뮬레이션 영상"></a>'
+                f'## {kind}\n\n<a href="https://www.youtube.com/watch?v={video}">'
+                f'<img src="https://img.youtube.com/vi/{video}/mqdefault.jpg" width="480" alt="{escape(name)} {kind}"></a>'
             )
     return ""
 

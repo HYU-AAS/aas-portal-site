@@ -21,6 +21,7 @@
 | 가이던스 | 기업이 참조모델을 활용할 수 있도록 설명한 문서 |
 | AASX | AAS 파일 형식으로 만든 장비별 참조모델 |
 | 시뮬레이션 | 참조모델의 활용을 보여 주는 시뮬레이션 영상 |
+| 장비 설명 영상 | 장비의 구성과 AAS 참조모델의 활용 방법을 설명하는 영상 |
 | 참고자료 | 작성에 참고한 카탈로그, 표준, 기술 문서 링크 |
 
 ## 시뮬레이션 영상
@@ -28,8 +29,15 @@
 이미지를 누르면 YouTube에서 재생됩니다.
 
 <table>
-<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=_2xbALzV0Dg"><img src="https://img.youtube.com/vi/_2xbALzV0Dg/mqdefault.jpg" width="260" alt="건조기 시뮬레이션 영상"></a><br>건조기 (1:38)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=ftLsYC0Sgu8"><img src="https://img.youtube.com/vi/ftLsYC0Sgu8/mqdefault.jpg" width="260" alt="분무건조기 시뮬레이션 시뮬레이션 영상"></a><br>분무건조기 시뮬레이션 (1:48)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=pzH_Pb4Imlg"><img src="https://img.youtube.com/vi/pzH_Pb4Imlg/mqdefault.jpg" width="260" alt="상압염색기 시뮬레이션 영상"></a><br>상압염색기 (2:39)</td></tr>
-<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=--81mT1z5LI"><img src="https://img.youtube.com/vi/--81mT1z5LI/mqdefault.jpg" width="260" alt="날염기 시뮬레이션 영상"></a><br>날염기 (2:21)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=1EOrVTGygnw"><img src="https://img.youtube.com/vi/1EOrVTGygnw/mqdefault.jpg" width="260" alt="원심분리기 시뮬레이션 영상"></a><br>원심분리기 (0:23)</td></tr>
+<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=ftLsYC0Sgu8"><img src="https://img.youtube.com/vi/ftLsYC0Sgu8/mqdefault.jpg" width="260" alt="분무건조기 시뮬레이션 영상"></a><br>분무건조기 (1:48)</td></tr>
+</table>
+
+## 장비 설명 영상
+
+이미지를 누르면 YouTube에서 재생됩니다.
+
+<table>
+<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=_2xbALzV0Dg"><img src="https://img.youtube.com/vi/_2xbALzV0Dg/mqdefault.jpg" width="260" alt="건조기 장비 설명 영상"></a><br>건조기 (1:38)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=pzH_Pb4Imlg"><img src="https://img.youtube.com/vi/pzH_Pb4Imlg/mqdefault.jpg" width="260" alt="상압염색기 장비 설명 영상"></a><br>상압염색기 (2:39)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=--81mT1z5LI"><img src="https://img.youtube.com/vi/--81mT1z5LI/mqdefault.jpg" width="260" alt="날염기 장비 설명 영상"></a><br>날염기 (2:21)</td></tr>
 </table>
 
 ## 장비별 자료
@@ -115,7 +123,7 @@
 ## 유형별 자료
 
 <details>
-<summary>개발계획서 (48종)</summary>
+<summary>개발계획서</summary>
 
 <table>
 <thead><tr><th>장비군</th><th>장비</th><th>자료</th></tr></thead>
@@ -174,7 +182,7 @@
 </details>
 
 <details>
-<summary>가이던스 (48종)</summary>
+<summary>가이던스</summary>
 
 <table>
 <thead><tr><th>장비군</th><th>장비</th><th>자료</th></tr></thead>
@@ -233,7 +241,7 @@
 </details>
 
 <details>
-<summary>AASX (48종)</summary>
+<summary>AASX</summary>
 
 <table>
 <thead><tr><th>장비군</th><th>장비</th><th>자료</th></tr></thead>
@@ -292,7 +300,7 @@
 </details>
 
 <details>
-<summary>참고자료 (21종)</summary>
+<summary>참고자료</summary>
 
 <table>
 <thead><tr><th>장비군</th><th>장비</th><th>자료</th></tr></thead>
