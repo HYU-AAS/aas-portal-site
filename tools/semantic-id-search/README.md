@@ -11,8 +11,8 @@ Windows PC에서 ECLASS 속성 후보를 검색하고 정의·단위·적용 조
 | 발표자료 · 편집 가능한 PPT 원본 | [시맨틱ID 검색 효율성 개선도구.pptx](시맨틱ID_검색_효율성_개선도구.pptx) |
 | 도움말 | [도움말.html](도움말.html) — 다운로드하여 브라우저에서 열기 |
 | 엑셀 입력 예제 | [검색항목_예제.xlsx](검색항목_예제.xlsx) |
-| 실행 파일·모델·사전 | 아래 다운로드 표 또는 [버전 1.0 배포 페이지](https://github.com/IODA-Lab/aas-portal-site/releases/tag/semantic-finder-v1.0) |
-| 개발용 소스 | [소스 ZIP](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-source.zip) |
+| 실행 파일·모델·사전 | 아래 다운로드 표 또는 [버전 1.0 배포 페이지](https://github.com/HYU-AAS/aas-portal-site/releases/tag/semantic-finder-v1.0) |
+| 개발용 소스 | [소스 ZIP](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-source.zip) |
 
 ## 실행에 필요한 파일
 
@@ -20,13 +20,13 @@ Windows PC에서 ECLASS 속성 후보를 검색하고 정의·단위·적용 조
 
 | 구분 | 다운로드 | 내용 |
 |---|---|---|
-| 필수 | [실행 패키지](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-windows.zip) | EXE, llama.cpp 실행 도구, 도움말, 예제, 라이선스 |
-| 필수 | [AI 모델 · 1/2](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-model.part1) | Qwen3 4B Q4_K_M 분할 파일 |
-| 필수 | [AI 모델 · 2/2](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-model.part2) | 위 파일과 함께 필요 |
-| 필수 | [설치 실행 파일](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/Install-SemanticFinder.cmd) | 더블클릭하여 설치 스크립트 실행 |
-| 필수 | [설치 스크립트](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/Install-SemanticFinder.ps1) | 파일 검증, 압축 해제, 모델 결합 |
-| 사전 | [ECLASS 16.0 사전 묶음](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/ECLASS-16.0-dictionaries.zip) | ADVANCED XML · ASSET XML · BASIC CSV |
-| 확인용 | [파일 해시 목록](https://github.com/IODA-Lab/aas-portal-site/releases/download/semantic-finder-v1.0/SHA256SUMS.txt) | SHA-256 검증값 |
+| 필수 | [실행 패키지](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-windows.zip) | EXE, llama.cpp 실행 도구, 도움말, 예제, 라이선스 |
+| 필수 | [AI 모델 · 1/2](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-model.part1) | Qwen3 4B Q4_K_M 분할 파일 |
+| 필수 | [AI 모델 · 2/2](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/SemanticFinder-1.0-model.part2) | 위 파일과 함께 필요 |
+| 필수 | [설치 실행 파일](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/Install-SemanticFinder.cmd) | 더블클릭하여 설치 스크립트 실행 |
+| 필수 | [설치 스크립트](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/Install-SemanticFinder.ps1) | 파일 검증, 압축 해제, 모델 결합 |
+| 사전 | [ECLASS 16.0 사전 묶음](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/ECLASS-16.0-dictionaries.zip) | ADVANCED XML · ASSET XML · BASIC CSV |
+| 확인용 | [파일 해시 목록](https://github.com/HYU-AAS/aas-portal-site/releases/download/semantic-finder-v1.0/SHA256SUMS.txt) | SHA-256 검증값 |
 
 GitHub가 자동으로 표시하는 **Source code (zip)**은 이 포털 저장소의 문서 묶음이며 실행 패키지가 아닙니다.
 

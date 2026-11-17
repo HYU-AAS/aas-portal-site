@@ -14,7 +14,7 @@ from itertools import groupby
 from pathlib import Path
 from urllib.parse import quote, urlencode
 
-REPO = "https://github.com/IODA-Lab/aas-portal-site"
+REPO = "https://github.com/HYU-AAS/aas-portal-site"
 SECTIONS = ("개발계획서", "가이던스", "AASX", "시뮬레이션", "참고자료")
 AASX_NAME = re.compile(r"^[A-Z][A-Za-z0-9]*_v\d+\.\d+\.\d+(_\d{6}|_\d{8})?\.aasx$")
 

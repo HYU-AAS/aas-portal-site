@@ -1,6 +1,6 @@
 # 주조 장비
 
-장비군: 주조·주물사 처리 설비 · 담당자: <a href="https://github.com/IODA-Lab/aas-portal-site/issues/new?template=equipment-question.yml&amp;title=%5B%EB%AC%B8%EC%9D%98%5D+%EC%A3%BC%EC%A1%B0+%EC%9E%A5%EB%B9%84&amp;equipment=%EC%A3%BC%EC%A1%B0+%EC%9E%A5%EB%B9%84">김익제</a> <sub>(이름을 누르면 문의 양식이 열립니다)</sub>
+장비군: 주조·주물사 처리 설비 · 담당자: <a href="https://github.com/HYU-AAS/aas-portal-site/issues/new?template=equipment-question.yml&amp;title=%5B%EB%AC%B8%EC%9D%98%5D+%EC%A3%BC%EC%A1%B0+%EC%9E%A5%EB%B9%84&amp;equipment=%EC%A3%BC%EC%A1%B0+%EC%9E%A5%EB%B9%84">김익제</a> <sub>(이름을 누르면 문의 양식이 열립니다)</sub>
 
 ## 자료
 
