@@ -29,7 +29,7 @@
 이미지를 누르면 YouTube에서 재생됩니다.
 
 <table>
-<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=ftLsYC0Sgu8"><img src="https://img.youtube.com/vi/ftLsYC0Sgu8/mqdefault.jpg" width="260" alt="분무건조기 시뮬레이션 영상"></a><br>분무건조기 (1:48)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=6FwGhMYE5zQ"><img src="https://img.youtube.com/vi/6FwGhMYE5zQ/mqdefault.jpg" width="260" alt="용해로 시뮬레이션 영상"></a><br>용해로</td></tr>
+<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=ftLsYC0Sgu8"><img src="https://img.youtube.com/vi/ftLsYC0Sgu8/mqdefault.jpg" width="260" alt="분무건조기 시뮬레이션 영상"></a><br>분무건조기 (1:48)</td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=6FwGhMYE5zQ"><img src="https://img.youtube.com/vi/6FwGhMYE5zQ/mqdefault.jpg" width="260" alt="용해로 시뮬레이션 영상"></a><br>용해로 (1:14)</td></tr>
 </table>
 
 ## 장비 설명 영상
